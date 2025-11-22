@@ -7,7 +7,7 @@ const ProjectsSection = () => {
   const projects = [
     {
       title: "Lorem Garden",
-      description: "Website toko tanaman hias dengan sistem e-commerce modern.",
+      description: "Website jasa undangan dan prewed",
       image: "/LoremGarden.png",
       link: "https://loremgarden.vercel.app/",
     },
@@ -17,6 +17,25 @@ const ProjectsSection = () => {
         "Toko digital dengan fitur realtime cart dan dashboard admin modern.",
       image: "/HikiStore.png",
       link: "https://neeto-shoe-github-io.vercel.app/",
+    },
+
+    {
+      title: "Desa Tondegesan",
+      description: "Website informasi desa Tondegesan yang modern dan responsif.",
+      image: "/DesaTondegesan.png", 
+      link: "https://desa-tondegesan.vercel.app/",
+    },
+    {
+      title: "Neeto Cafe Backoffice",
+      description: "Dashboard backoffice untuk pengelolaan Neeto Cafe.",
+      image: "/NeetoCafeBackoffice.png", 
+      link: "https://neetocafebackoffice.vercel.app/",
+    },
+    {
+      title: "Neeto Cafe User",
+      description: "Aplikasi user untuk pemesanan menu di Neeto Cafe.",
+      image: "/NeetoCafeUser.png", 
+      link: "https://neeto-cafe-user.vercel.app/",
     },
   ];
 
