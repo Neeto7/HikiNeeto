@@ -12,7 +12,7 @@ const ScrollReveal = () => {
 
     const ctx = gsap.context(() => {
       gsap.to(textRef.current, {
-        xPercent: -100, // geser full ke kiri
+        xPercent: -100, 
         ease: "none",
         scrollTrigger: {
           trigger: containerRef.current,
@@ -40,7 +40,7 @@ const ScrollReveal = () => {
       >
         {/* Logo sebelum teks */}
         <img
-          src="/Logo.png" // ganti dengan path logo kamu
+          src="/Logo.png" 
           alt="Logo"
           className="w-24 h-24 mr-12 object-contain"
         />

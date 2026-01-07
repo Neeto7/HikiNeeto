@@ -6,11 +6,6 @@ import Parallax from "./components/parallax/Parallax";
 import ProjectsSection from "./components/ProjectSection/ProjectSection";
 import ScrollReveal from "./components/scrollreveal/scrollReveal";
 
-
-
-
-
-
 const Hikineeto = () => {
   return (
     <div>

@@ -37,6 +37,13 @@ const ProjectsSection = () => {
       image: "/NeetoCafeUser.png", 
       link: "https://neeto-cafe-user.vercel.app/",
     },
+    {
+      title: "Legacy Builders",
+      description: "Website company profile untuk Legacy Builders dengan tampilan profesional dan modern.",
+      image: "/LegacyBuilders.png",
+      link: "https://legacybuilders.vercel.app/",
+    },
+
   ];
 
   return (
